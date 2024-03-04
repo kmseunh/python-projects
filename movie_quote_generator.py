@@ -4,7 +4,7 @@ def get_movie_quote(movie):
         "B": "지금까지 이런 맛은 없었다. 이것은 {word1}인가 {word2}인가.",
         "C": "지금 내 {word1}이 그래. {word2}가 없네?",
     }
-    return quotes.get(movie, "해당하는 영화 명대사가 없습니다.")
+    return quotes.get(movie, "선택하신 영화 명대사가 없습니다.")
 
 
 def main():
