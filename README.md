@@ -16,5 +16,5 @@
 
 ### Projects
 
+- [Number Guessing Game](https://github.com/kmseunh/python-projects/blob/main/number_guessing_game.py)
 - [Movie Quote Generator](https://github.com/kmseunh/python-projects/blob/main/movie_quote_generator.py)
-- [Random Number Guessing Game](https://github.com/kmseunh/python-projects/blob/main/random_number_guessing_game.py)
