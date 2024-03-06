@@ -16,6 +16,7 @@
 
 ### Projects
 
+- [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
 - [Email Slicer](https://github.com/kmseunh/python-projects/blob/main/email_slicer.py)
 - [Number Guessing Game](https://github.com/kmseunh/python-projects/blob/main/number_guessing_game.py)
