@@ -20,4 +20,4 @@
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
 - [Email Slicer](https://github.com/kmseunh/python-projects/blob/main/email_slicer.py)
 - [Number Guessing Game](https://github.com/kmseunh/python-projects/blob/main/number_guessing_game.py)
-- [Movie Quote Generator](https://github.com/kmseunh/python-projects/blob/main/movie_quote_generator.py)
+- [Quiz Program](https://github.com/kmseunh/python-projects/blob/main/quiz_program.py)
