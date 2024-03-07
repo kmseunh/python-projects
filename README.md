@@ -19,5 +19,6 @@
 - [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
 - [Email Slicer](https://github.com/kmseunh/python-projects/blob/main/email_slicer.py)
+- [Interest Payment Calculator](https://github.com/kmseunh/python-projects/blob/main/interest_payment_calculator.py)
 - [Number Guessing Game](https://github.com/kmseunh/python-projects/blob/main/number_guessing_game.py)
 - [Quiz Program](https://github.com/kmseunh/python-projects/blob/main/quiz_program.py)
