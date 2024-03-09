@@ -17,6 +17,7 @@
 ### Projects
 
 - [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
+- [Dice Rolling Simulator](https://github.com/kmseunh/python-projects/blob/main/dice_rolling_simulator.py)
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
 - [Email Slicer](https://github.com/kmseunh/python-projects/blob/main/email_slicer.py)
 - [Interest Payment Calculator](https://github.com/kmseunh/python-projects/blob/main/interest_payment_calculator.py)
