@@ -17,6 +17,7 @@
 ### Projects
 
 - [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
+- [Currency Converter](https://github.com/kmseunh/python-projects/blob/main/currency_converter.py)
 - [Dice Rolling Simulator](https://github.com/kmseunh/python-projects/blob/main/dice_rolling_simulator.py)
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
 - [Email Slicer](https://github.com/kmseunh/python-projects/blob/main/email_slicer.py)
