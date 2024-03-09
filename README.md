@@ -24,3 +24,4 @@
 - [Number Guessing Game](https://github.com/kmseunh/python-projects/blob/main/number_guessing_game.py)
 - [Quiz Program](https://github.com/kmseunh/python-projects/blob/main/quiz_program.py)
 - [Random Password Generator](https://github.com/kmseunh/python-projects/blob/main/random_password_generator.py)
+- [Site Connectivity Checker](https://github.com/kmseunh/python-projects/blob/main/site_connectivity_checker.py)
