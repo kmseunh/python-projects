@@ -2,19 +2,13 @@
 
 > Life is short, you need Python.
 
-<br>
-
 **Python**을 사용하여 만든 간단한 프로젝트 저장소입니다.
 
-&nbsp;
-
-### Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-&nbsp;
-
-### Projects
+## Projects
 
 - [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
 - [Currency Converter](https://github.com/kmseunh/python-projects/blob/main/currency_converter.py)
