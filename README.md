@@ -10,6 +10,7 @@
 
 ## Projects
 
+- [Address Book](https://github.com/kmseunh/python-projects/blob/main/address_book.py)
 - [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
 - [Currency Converter](https://github.com/kmseunh/python-projects/blob/main/currency_converter.py)
 - [Dice Rolling Simulator](https://github.com/kmseunh/python-projects/blob/main/dice_rolling_simulator.py)
