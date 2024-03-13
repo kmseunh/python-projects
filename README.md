@@ -16,6 +16,7 @@
 - [Dice Rolling Simulator](https://github.com/kmseunh/python-projects/blob/main/dice_rolling_simulator.py)
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
 - [Email Slicer](https://github.com/kmseunh/python-projects/blob/main/email_slicer.py)
+- [Get Instagram Profile](https://github.com/kmseunh/python-projects/blob/main/get_instagram_profile.py)
 - [Interest Payment Calculator](https://github.com/kmseunh/python-projects/blob/main/interest_payment_calculator.py)
 - [Leap Year Checker](https://github.com/kmseunh/python-projects/blob/main/leap_year_checker.py)
 - [Monty Hall Simulation](https://github.com/kmseunh/python-projects/blob/main/monty_hall_simulation.py)
