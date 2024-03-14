@@ -12,6 +12,7 @@
 
 - [Address Book](https://github.com/kmseunh/python-projects/blob/main/address_book.py)
 - [Binary Search Algorithm](https://github.com/kmseunh/python-projects/blob/main/binary_search_algorithm.py)
+- [CLI Based ToDo Application](https://github.com/kmseunh/python-projects/blob/main/cli_based_todo_application.py)
 - [Currency Converter](https://github.com/kmseunh/python-projects/blob/main/currency_converter.py)
 - [Decimal To Binary And Vice Versa](https://github.com/kmseunh/python-projects/blob/main/decimal_to_binary_and_vice_versa.py)
 - [Dice Rolling Simulator](https://github.com/kmseunh/python-projects/blob/main/dice_rolling_simulator.py)
