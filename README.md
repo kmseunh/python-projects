@@ -15,6 +15,7 @@
 - [BMI Calculator](https://github.com/kmseunh/python-projects/blob/main/bmi_calculator.py)
 - [CLI Based ToDo Application](https://github.com/kmseunh/python-projects/blob/main/cli_based_todo_application.py)
 - [Currency Converter](https://github.com/kmseunh/python-projects/blob/main/currency_converter.py)
+- [D-Day Calculator](https://github.com/kmseunh/python-projects/blob/main/d_day_calculator.py)
 - [Decimal To Binary And Vice Versa](https://github.com/kmseunh/python-projects/blob/main/decimal_to_binary_and_vice_versa.py)
 - [Dice Rolling Simulator](https://github.com/kmseunh/python-projects/blob/main/dice_rolling_simulator.py)
 - [Email Sender](https://github.com/kmseunh/python-projects/blob/main/email_sender.py)
